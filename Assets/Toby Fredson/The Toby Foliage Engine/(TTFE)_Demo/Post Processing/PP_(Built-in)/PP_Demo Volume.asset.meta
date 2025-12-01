@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3de2edfe6e4d83445bc5412cdd5b7a88
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279757
+  packageName: The Toby Foliage Engine
+  packageVersion: 2.0.0
+  assetPath: Assets/Toby Fredson/The Toby Foliage Engine/(TTFE)_Demo/Post Processing/PP_(Built-in)/PP_Demo
+    Volume.asset
+  uploadId: 791840

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b06ba7f3edf8430468f8c66f3f582d20
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279757
+  packageName: The Toby Foliage Engine
+  packageVersion: 2.0.0
+  assetPath: Assets/Toby Fredson/The Toby Foliage Engine/(TTFE)_Demo/Prefabs/Prefabs_Vegetation/Trees/VTSpecies_Shrub/Root
+    mesh.prefab
+  uploadId: 791840

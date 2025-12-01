@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 58360699feb112c40b86ba9ba75062e6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279757
+  packageName: The Toby Foliage Engine
+  packageVersion: 2.0.0
+  assetPath: Assets/Toby Fredson/The Toby Foliage Engine/(TTFE)_Core/Shaders/Functions/(TTFE)
+    Tree Bark_Wind System.asset
+  uploadId: 791840

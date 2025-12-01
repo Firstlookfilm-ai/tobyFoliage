@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f7d68963cabd5ad44b9a8e54bc3b0647
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279757
+  packageName: The Toby Foliage Engine
+  packageVersion: 2.0.0
+  assetPath: Assets/Toby Fredson/The Toby Foliage Engine/(TTFE)_Core/Resources/Interaction
+    Assets/Prefabs/TTFEFlag_Small.prefab
+  uploadId: 791840

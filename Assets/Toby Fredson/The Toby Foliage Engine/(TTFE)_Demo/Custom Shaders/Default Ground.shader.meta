@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2cda8c86b1ea45a4f814a8eeb923f0d4
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279757
+  packageName: The Toby Foliage Engine
+  packageVersion: 2.0.0
+  assetPath: Assets/Toby Fredson/The Toby Foliage Engine/(TTFE)_Demo/Custom Shaders/Default
+    Ground.shader
+  uploadId: 791840

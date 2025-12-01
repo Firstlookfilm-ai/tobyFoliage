@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a9a9a712886580f42b303e01be382f20
+timeCreated: 1548608060
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: materials
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279757
+  packageName: The Toby Foliage Engine
+  packageVersion: 2.0.0
+  assetPath: Assets/Toby Fredson/The Toby Foliage Engine/(TTFE)_Demo/Materials/Materials_Particle
+    FX/Polen.mat
+  uploadId: 791840

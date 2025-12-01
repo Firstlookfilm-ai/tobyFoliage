@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5c737381d5349b84fb85c74dff0565e5
+labels:
+- environment
+- nature
+- particles
+- rockyhills
+timeCreated: 1548607497
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: particles
+  assetBundleVariant: particles
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279757
+  packageName: The Toby Foliage Engine
+  packageVersion: 2.0.0
+  assetPath: Assets/Toby Fredson/The Toby Foliage Engine/(TTFE)_Demo/Prefabs/Particle
+    FX/BlowingLeavesB.prefab
+  uploadId: 791840

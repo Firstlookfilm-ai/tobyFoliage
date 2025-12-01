@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d00941d60074cd949ac5880eaa607a09
+labels:
+- environment
+- nature
+- particles
+- rockyhills
+timeCreated: 1548608335
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: particles
+  assetBundleVariant: particles
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279757
+  packageName: The Toby Foliage Engine
+  packageVersion: 2.0.0
+  assetPath: Assets/Toby Fredson/The Toby Foliage Engine/(TTFE)_Demo/Prefabs/Particle
+    FX/Polen.prefab
+  uploadId: 791840

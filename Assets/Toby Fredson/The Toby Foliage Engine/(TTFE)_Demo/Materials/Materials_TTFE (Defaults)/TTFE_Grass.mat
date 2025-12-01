@@ -1,0 +1,247 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TTFE_Grass
+  m_Shader: {fileID: 4800000, guid: 9836eda9c73d0e7419630eb145f848ab, type: 3}
+  m_ValidKeywords:
+  - _WINDTYPE_STRONGWIND
+  m_InvalidKeywords:
+  - _GENTLEBREEZE_ON
+  - _GRASSINTERACTION_ON
+  - _LIGHTDETECTBACKFACE_ON
+  - _SEASONVERTEXCOLORR_ON
+  - _TRANSLUCENCYFLUFFINESS_ON
+  - _WINDMOTIONSCALEMASK_ON
+  - _WINDONOFF_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskMapRGBA:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseMapGrayscale:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SecondaryNormalMapCustomNormals:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SpecularMapGrayscale:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _WindNoiseMap:
+        m_Texture: {fileID: 2800000, guid: b77f7b8226e9ef748a6e3a9c7a1b77f6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _ADVANCEDSETTINGS: 0
+    - _AlphaClip: 0.4
+    - _AlphaCutoff: 0.5
+    - _AmbientOcclusionIntensity: 1
+    - _BackfaceNormalKill: 0
+    - _BendAmount: 0
+    - _BendAmountGrass: 1
+    - _BendRadius: 1
+    - _BranchMaskR: 0
+    - _BumpScale: 1
+    - _CenterofMassintensity: 0
+    - _ColorVariation: 0
+    - _ContinuousWindGentle: 0
+    - _Cutoff: 0.5
+    - _DEBUGVisualizeWindMask: 0
+    - _DEBUGWINDMASK: 0
+    - _DetailNormalMapScale: 1
+    - _DirectionalBendingAmount: 3
+    - _DirectionalWind: 0
+    - _DirectionalWindSpeed: 4
+    - _DryLeavesOffset: 1
+    - _DryLeavesScale: 1
+    - _DstBlend: 0
+    - _EmissionIntensity: 0
+    - _EnvironmentReflections: 1
+    - _FACERENDERING: 0
+    - _GentleBreeze: 1
+    - _GlobalWindStrength: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _GrassColorVariation: 1
+    - _GrassInteraction: 1
+    - _GrassSwayPowerGentle: 1
+    - _GroundBlending: 0
+    - _GroundBlendingExperimental: 0
+    - _GroundBlendingOffset: -0.08
+    - _Hardness2: 1
+    - _HeightMax: 1
+    - _LightDetectBackface: 1
+    - _LightDetectFrontface: 0
+    - _Metallic: 0
+    - _MobileShading: 0
+    - _MobileShadingWorldUp: 0
+    - _Mode: 0
+    - _MotionBendingDownwardStrength: -0.5
+    - _MotionBendingRandomnessGentleWind: 0.1
+    - _MotionFlutterIntensity: 1
+    - _MotionFlutterScale: 10
+    - _NormalBackFaceFixBranch: 0
+    - _NormalIntensity: 1
+    - _NormalMapBasedSnow: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _PerspectiveCorrection: 0
+    - _PerspectiveIntensity: -1
+    - _PhysicsWind: 0
+    - _PhysiscsInteraction: 0
+    - _PivotSway: 0
+    - _PivotSwayPower: 1
+    - _PlantMassVolume: 1
+    - _PlantVolumeandMass: 1
+    - _QuadScatterIntensity: 0
+    - _QuadScatterOnlybasiccards: 0
+    - _QuadScatterWorldNormals: 0
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _Radius2: 1
+    - _RandomColorScale: 1
+    - _RandomContrast: 0
+    - _RandomContrastOnOff: 0
+    - _ReceiveShadows: 1
+    - _SAVEPERFORMANCEDeactivateWind: 0
+    - _SEASONSETTINGS: 0
+    - _SHADINGSETTINGS: 0
+    - _SeasonChangeGlobal: 0
+    - _SeasonVertexColorR: 1
+    - _SecondaryNormalIntensity: 0
+    - _SecondaryNormalScale: 0
+    - _SinkingNoiseScale: 0.2
+    - _SmoothnessIntensity: 0
+    - _SmoothnessTextureChannel: 0
+    - _SnowAccumulationGroundSinking: 0
+    - _SnowOffset: 0
+    - _SnowScale: 0
+    - _SnowValue: 1
+    - _SpecularBackfaceOcclusion: 0
+    - _SpecularBias: 1
+    - _SpecularHighlights: 1
+    - _SpecularMapOffset: 0
+    - _SpecularMapScale: 1
+    - _SpecularPower: 1
+    - _SpecularScale: -5
+    - _SpecularStrength: 2
+    - _Specularpower: 0
+    - _SrcBlend: 1
+    - _StrongWindSpeed: 1
+    - _TBCVMapIntenisty: 1
+    - _TBCVMapOffset: 0
+    - _TBCVOnUsesNoiseMap: 0
+    - _TBRCMapIntenisty: 1
+    - _TBRCMapOffset: 0
+    - _TBRCOnUsesNoiseMap: 0
+    - _TEXTUREMAPS: 0
+    - _TEXTURESETTINGS: 0
+    - _TTFEGRASSFOLIAGESHADER: 0
+    - _TranslucencyFluffiness: 1
+    - _TranslucencyPower: 1
+    - _TranslucencyRange: 1
+    - _UVSec: 0
+    - _VertexNormalWarpAmount: 0
+    - _VisualizeMass: 0
+    - _WINDMASKSETTINGS: 0
+    - _WindAmplitude: 0
+    - _WindDirection: 0
+    - _WindFrequency: 1
+    - _WindMotionScaleMask: 1
+    - _WindOnOff: 1
+    - _WindType: 1
+    - _ZWrite: 1
+    - _ZaWorldoScale: 1
+    - __dirty: 0
+    m_Colors:
+    - _AlbedoColor: {r: 0.57254905, g: 0.6, b: 0.2901961, a: 0}
+    - _BendAxis: {r: 0, g: 0, b: 1, a: 0}
+    - _BendDirection: {r: 1, g: 0.5, b: 1, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _DryLeafColor: {r: 0.5568628, g: 0.37306848, b: 0.17647055, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _WindAxis: {r: 0, g: 0, b: 1, a: 0}
+  m_BuildTextureStacks: []

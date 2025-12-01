@@ -1,0 +1,192 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: IrregularStones (Fade)
+  m_Shader: {fileID: 4800000, guid: f4785d4487b747542b5955296c3cea7e, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - BAKERY_BICUBIC
+  - BAKERY_LMSPEC
+  - BAKERY_RNM
+  - BAKERY_SH
+  - BAKERY_SHNONLINEAR
+  - BAKERY_VERTEXLM
+  - BAKERY_VERTEXLMDIR
+  - BAKERY_VERTEXLMMASK
+  - BAKERY_VERTEXLMSH
+  - BAKERY_VOLUME
+  - _METALLICGLOSSMAP
+  - _NORMALMAP
+  - _SLOPEMODE_TANGENTSLOPETS
+  - _SNOWSLOPE_ON
+  - _WINDTYPE_STRONGWIND
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlbedoMap:
+        m_Texture: {fileID: 2800000, guid: 93c40d33654d5ff41b8fc04e73e611ff, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 92be4d480a64d9149baccbc118feb9ff, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 93c40d33654d5ff41b8fc04e73e611ff, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskMap:
+        m_Texture: {fileID: 2800000, guid: 26ed1f7619b4e1c4a917819f279ff0ee, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 2800000, guid: 26ed1f7619b4e1c4a917819f279ff0ee, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 92be4d480a64d9149baccbc118feb9ff, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normalx:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 2800000, guid: 26ed1f7619b4e1c4a917819f279ff0ee, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0x:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Volume0:
+        m_Texture: {fileID: 11700000, guid: 86773038ace772541939b94ce1e60bbf, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Volume1:
+        m_Texture: {fileID: 11700000, guid: 832916d724e9dc84080c3840ce1edb8a, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Volume2:
+        m_Texture: {fileID: 11700000, guid: 6a5238004ca59554e82013d49f7a6311, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _VolumeMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _3DSnowNoise: 0
+    - _ADVANCEDSETTINGS: 0
+    - _AlphaCutoff: 0.5
+    - _BAKERY_2SIDED: 2
+    - _BAKERY_2SIDEDON: 0
+    - _BAKERY_BICUBIC: 1
+    - _BAKERY_LMSPEC: 1
+    - _BAKERY_PROBESHNONLINEAR: 0
+    - _BAKERY_RNM: 1
+    - _BAKERY_SH: 1
+    - _BAKERY_SHNONLINEAR: 1
+    - _BAKERY_VERTEXLM: 1
+    - _BAKERY_VERTEXLMDIR: 1
+    - _BAKERY_VERTEXLMMASK: 1
+    - _BAKERY_VERTEXLMSH: 1
+    - _BAKERY_VOLROTATION: 0
+    - _BAKERY_VOLUME: 1
+    - _BumpScale: 1
+    - _Cutoff: 0.5
+    - _DIVIDER_01: 0
+    - _DIVIDER_02: 0
+    - _DIVIDER_03: 0
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _EnvironmentReflections: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Metallic: 0
+    - _Mode: 0
+    - _NormalMapBasedSnow: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
+    - _SEASONSETTINGS: 0
+    - _SlopeMax: 0
+    - _SlopeMaxTS: 8
+    - _SlopeMin: 0
+    - _SlopeMinTS: -1
+    - _SlopeMode: 0
+    - _SmoothnessAmount: 1
+    - _SmoothnessTextureChannel: 0
+    - _SnowAmount: 0
+    - _SnowLumpsScaleWS: 3
+    - _SnowOffset: -0.62
+    - _SnowScale: 1.64
+    - _SnowSlope: 1
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _TEXTUREMAPS: 0
+    - _TEXTURESETTINGS: 0
+    - _TTFEMESHSHADER: 0
+    - _UVSec: 0
+    - _WetnessShine: 1
+    - _ZWrite: 1
+    - __dirty: 0
+    m_Colors:
+    - _AlbedoColor: {r: 0.7921569, g: 0.7921569, b: 0.7921569, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _VolumeInvSize: {r: 0.016591258, g: 0.032916274, b: 0.019937601, a: 0}
+    - _VolumeMin: {r: 150.07382, g: -31.740273, b: -23.911655, a: 0}
+  m_BuildTextureStacks: []

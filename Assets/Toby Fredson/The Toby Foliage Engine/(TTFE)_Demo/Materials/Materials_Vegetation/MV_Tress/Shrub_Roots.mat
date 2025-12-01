@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shrub_Roots
+  m_Shader: {fileID: 4800000, guid: aef74c22df0d58e4692680a6d23b069c, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _DIRECTIONWINDONOFF_ON
+  - _DIRECTIONWIND_ON
+  - _FAUXSHADING_ON
+  - _FKESHADING_ON
+  - _GEHFACE_ON
+  - _LIGHTDETECTBACKFACE2_ON
+  - _LIGHTDETECTBACKFACE_ON
+  - _LIGHTDETECTFRONTFACE_ON
+  - _TRANSLUCENCYTREETANGENTS_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlbedoMap:
+        m_Texture: {fileID: 2800000, guid: 806e380996355d647a6242fe9813dd50, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskMap:
+        m_Texture: {fileID: 2800000, guid: 69334f54a560eb9418c93bd852bd9ad0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseMask:
+        m_Texture: {fileID: 2800000, guid: 82dfb97a9f422234e98c031bc7bbc1fe, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 2800000, guid: 71e742f8438c6e54c91bb098edd2b3b8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _ADVANCEDSETTINGS: 0
+    - _AlphaClip: 0.2
+    - _AlphaCutoff: 0.5
+    - _Alphacutout: 1
+    - _AmbientOcclusionIntensity: 0.6
+    - _BackfaceCulling: 0
+    - _BackfaceNormalKill: 0
+    - _BumpScale: 1
+    - _Cutoff: 0.2
+    - _DetailNormalMapScale: 1
+    - _DirectionalBendingAmount: 3
+    - _DirectionalWindSpeed: 4.4
+    - _Directionwind: 1
+    - _DirectionwindOnOff: 1
+    - _DstBlend: 0
+    - _EnvironmentReflections: 1
+    - _FACERENDERING: 0
+    - _FKB_Offset: 1
+    - _FKB_Scale: 1.45
+    - _FKS_Offset: 0.5
+    - _FKS_Scale: 5
+    - _FauxShading: 1
+    - _FauxShadingVertexBlue: 0
+    - _FkeShading: 1
+    - _FlutterIntensity: 1
+    - _GehFace: 1
+    - _GlobalWindStrength: 1
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _GrassColorVariation: 5
+    - _Hardness3: 3
+    - _InvertColorMask: 0
+    - _InvertColorMask2: 0
+    - _LightDetectBackface: 1
+    - _LightDetectBackface2: 1
+    - _LightDetectFrontface: 1
+    - _MS: 4
+    - _MaskView: 0
+    - _Metallic: 0
+    - _Mo: 0
+    - _MobileShading: 0
+    - _Mode: 0
+    - _NormalBackFaceFixBranch: 0
+    - _NormalIntenisty: 1
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _RRRRRRRRRRRR: 0
+    - _Radius3: 3
+    - _ReceiveShadows: 1
+    - _SeasonChnageA: 5
+    - _SeasonChnageB: -0.93
+    - _SmoothnessIntensity: 1
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _TEXTUREMAPS: 0
+    - _TTFEROOTSSHADER: 0
+    - _TranslucencyPower: 3
+    - _TranslucencyRange: 1
+    - _TranslucencyTreeTangents: 1
+    - _UVSec: 0
+    - _VertexAo: 0
+    - _WetnessShine: 0.6
+    - _WindDirection: 0
+    - _ZWrite: 1
+    - __dirty: 0
+    m_Colors:
+    - _AlebedoColor: {r: 0.7176471, g: 0.7176471, b: 0.7176471, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Dryleafcolor: {r: 1, g: 0.6039216, b: 0.18431373, a: 0}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Leadydry: {r: 1, g: 0.6334349, b: 0, a: 0}
+  m_BuildTextureStacks: []

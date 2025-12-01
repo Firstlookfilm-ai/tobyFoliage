@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 288aadb779d04b1590cffeef7d58e062
+timeCreated: 1495998543
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 279757
+  packageName: The Toby Foliage Engine
+  packageVersion: 2.0.0
+  assetPath: Assets/Toby Fredson/The Toby Foliage Engine/(TTFE)_Example Assets/EXT_Materials/Pine_06_Branches.mat
+  uploadId: 791840
